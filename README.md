@@ -24,6 +24,8 @@
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square" />
   <img alt="adobephotoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="adobeaftereffects" src="https://img.shields.io/badge/-AfterEffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+  <img alt="threedotjs" src="https://img.shields.io/badge/-Threejs-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+
 </p>
 
 <h3>Projects</h3>
