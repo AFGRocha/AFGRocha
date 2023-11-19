@@ -26,6 +26,14 @@
   <img alt="adobeaftereffects" src="https://img.shields.io/badge/-AfterEffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
 </p>
 
+<h3>Projects</h3>
+<ul>
+  <li><a href="https://afgrocha.github.io/EX-Chess/"><b>EX Chess</b></a><br/><i>Multiplayer Browser Chess game with special abilities</i></li>
+  <li><a href="https://afgrocha.github.io/salazarschair/"><b>Salazar's Chair</b></a><br/><i>College Project. Small puzzle game</i></li>
+  <li><a href="https://github.com/AFGRocha/OpenGL-Kart"><b>OpenGL Kart</b></a><br/><i>IN DEVELOPMENT. Small kart racing game done with OpenGL and C++</i></li>
+  <li><a href="https://daikipt.itch.io/holowarriors"><b>HoloWarriors</b></a><br/><i>IN DEVELOPMENT. Hololive Action game fan project</i></li>
+</ul>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/afgrocha" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ant%C3%B3nio-rocha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
