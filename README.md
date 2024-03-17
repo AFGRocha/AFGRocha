@@ -33,8 +33,7 @@
   <li><a href="https://afgrocha.github.io/EX-Chess/"><b>EX Chess</b></a><br/><i>Multiplayer Browser Chess game with special abilities <a href="https://github.com/AFGRocha/EX-Chess">(source code)</a></i></li>
   <li><a href="https://afgrocha.github.io/salazarschair/"><b>Salazar's Chair</b></a><br/><i>College Project. Small puzzle game</i></li>
   <li><a href="https://afgrocha.github.io/Gummi-Mission/"><b>Gummi Mission</b></a><br/><i>College Project. Recreation of Kingdom Heart's space shooter segment in Threejs <a href="https://github.com/AFGRocha/Gummi-Mission">(source code)</a></i></li>
-  <li><a href="https://github.com/AFGRocha/OpenGL-Kart"><b>OpenGL Kart</b></a><br/><i>IN DEVELOPMENT. Small kart racing game done with OpenGL and C++</i></li>
-  <li><a href="https://daikipt.itch.io/holowarriors"><b>HoloWarriors</b></a><br/><i>IN DEVELOPMENT. Hololive Action game fan project</i></li>
+  <li><a href="https://daikipt.itch.io/marikyuun"><b>Marikyuun's Puzzle Quest</b></a><br/><i>Puzzle Game developed using C++ and Raylib</i></li>
 </ul>
 
 <h3>Where to find me</h3>
