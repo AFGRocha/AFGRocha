@@ -25,6 +25,7 @@
   <img alt="adobephotoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="adobeaftereffects" src="https://img.shields.io/badge/-AfterEffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
   <img alt="threedotjs" src="https://img.shields.io/badge/-Threejs-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img alt="pixijs" src="https://img.shields.io/badge/-Pixijs-011A6A?style=flat-square&logo=pixijs&logoColor=white" />
 
 </p>
 
@@ -34,6 +35,7 @@
   <li><a href="https://afgrocha.github.io/salazarschair/"><b>Salazar's Chair</b></a><br/><i>College Project. Small puzzle game</i></li>
   <li><a href="https://afgrocha.github.io/Gummi-Mission/"><b>Gummi Mission</b></a><br/><i>College Project. Recreation of Kingdom Heart's space shooter segment in Threejs <a href="https://github.com/AFGRocha/Gummi-Mission">(source code)</a></i></li>
   <li><a href="https://daikipt.itch.io/marikyuun"><b>Marikyuun's Puzzle Quest</b></a><br/><i>Puzzle Game developed using C++ and Raylib</i></li>
+  <li><a href="https://daikipt.itch.io/holo-garden"><b>Holo Garden</b></a><br/><i>Virtual Pet developed using TypeScript and Pixi.js</i></li>
 </ul>
 
 <h3>Where to find me</h3>
